@@ -17,6 +17,11 @@
             key-positions = <30 18>;
             layers = <2>;
         };
+
+        BS {
+            bindings = <&kp BACKSPACE>;
+            key-positions = <3 15>;
+        };
     };
 
     macros {
